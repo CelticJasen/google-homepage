@@ -1,0 +1,129 @@
+#google-div {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#glogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#gsearch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 500px;
+  height: 25px;
+}
+
+#searchopt {
+  display: inline-block;
+  margin-left: 135px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  font-family: sans-serif;
+}
+
+#searchopt:hover {
+  display: inline-block;
+  margin-left: 135px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  font-family: sans-serif;
+  background-color: #EEEEEE;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+#luckyopt {
+  display: inline-block;
+  margin-left: 10px;
+  text-decoration: none;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  font-family: sans-serif;
+}
+
+#luckyopt:hover {
+  display: inline-block;
+  margin-left: 10px;
+  text-decoration: none;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  font-family: sans-serif;
+  background-color: #EEEEEE;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+
+#glink {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+#glink:hover {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+#headleft {
+  float: left;
+}
+
+#headright {
+  float: right;
+}
+
+#footerdiv {
+  position: absolute;
+  bottom: 0;
+  width: 99%;
+  height: 2rem;
+}
+
+#footleft {
+  float: left;
+}
+
+#footright {
+  float: right;
+}
+
+#signin {
+  background-color: dodgerblue;
+  color: white;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.hflink {
+  color: gray;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.hflink:hover {
+  color: gray;
+  padding: 10px;
+  font-family: sans-serif;
+  text-decoration: underline;
+}

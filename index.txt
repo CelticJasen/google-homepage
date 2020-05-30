@@ -1,0 +1,39 @@
+<div id="headerdiv">
+  <header id="header">
+    <div id="headleft">
+      <span class="hflink">About</span>
+      <span class="hflink">Store</span>
+    </div>
+    
+    <div id="headright">
+      <span class="hflink">Gmail</span>
+      <span class="hflink">Images</span>
+      <span></span>
+      <span id="signin">Sign in</span>
+    </div>
+  </header>
+</div>
+
+<div id="google-div">
+  <image id="glogo" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"></image>
+  <input type="text" id="gsearch" name="gsearch">
+  <a id="searchopt" href="#">Google search</a>
+  <a id="luckyopt" href="#">I'm feeling lucky</a>
+  <a id="glink" href="https://duo.google.com/about/?link=https://duo.google.com&utm_source=hpp%2526utm_medium%253Downed%2526utm_campaign%253D&pt=9008&ct=hpp_owned_global-brnd-may-hpp&mt=owned&efr=1&utm_medium=owned&utm_source=hpp&utm_campaign">Video calls to anyone made easy on Google Duo</a>
+</div>
+
+<div id="footerdiv">
+  <footer id="footer">
+    <div id="footleft">
+      <span class="hflink">Advertising</span>
+      <span class="hflink">Business</span>
+      <span class="hflink">How Search works</span>
+    </div>
+    
+    <div id="footright">
+      <span class="hflink">Privacy</span>
+      <span class="hflink">Terms</span>
+      <span class="hflink">Settings</span>
+    </div>
+  </footer>
+</div>
